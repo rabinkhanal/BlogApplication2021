@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "52312112006",
+    "project_id": "mynotes-21a78",
+    "storage_bucket": "mynotes-21a78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52312112006:android:8cd9718353983f7b95ca07",
+        "android_client_info": {
+          "package_name": "com.rabin.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52312112006-t7r733istgot2bfam6k7rsmmkkg3uku3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rabin.mynotes",
+            "certificate_hash": "4cd7e618791457e761f5877413b8ec6c49b336e8"
+          }
+        },
+        {
+          "client_id": "52312112006-u8k95a8i67vbt5j6363es8mp16s5ug73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBWJTSb2Zq-tobo9p_08j7SG0ZpFmcTmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52312112006-u8k95a8i67vbt5j6363es8mp16s5ug73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
